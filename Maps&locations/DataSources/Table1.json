@@ -1,0 +1,21 @@
+[
+  {
+    "Data": "[{\"Latitude\":26.2774,\"Longitude\":-98.29277,\"Name\":\"My Home\",\"color\":\"Blue\",\"icon\":\"car\",\"open time\":\"24*7\"},{\"Latitude\":32.55253,\"Longitude\":-96.85572,\"Name\":\"Office\",\"color\":\"Blue\",\"icon\":\"marker\",\"open time\":\"9 AM to 5 PM\"},{\"Latitude\":32.72058,\"Longitude\":-96.99952,\"Name\":\"Garden\",\"color\":\"Blue\",\"icon\":\"flag-triangle\",\"open time\":\"7 AM to 9 PM\"},{\"Latitude\":34.86543,\"Longitude\":-118.30746,\"Name\":\"Hospital\",\"color\":\"Blue\",\"icon\":\"marker-square-rounded-cluster\",\"open time\":\"24*7\"},{\"Latitude\":34.17553,\"Longitude\":-118.66184,\"Name\":\"Temple\",\"color\":\"Blue\",\"icon\":\"hexagon-thick\",\"open time\":\"5 AM to 12 PM\"}]",
+    "IsSampleData": false,
+    "IsWritable": false,
+    "Name": "Table1",
+    "OrderedColumnNames": [
+      "Name",
+      "Longitude",
+      "Latitude",
+      "color",
+      "icon",
+      "open time"
+    ],
+    "OriginalName": "Table1",
+    "OriginalSchema": "*[Latitude:n, Longitude:n, Name:s, color:s, icon:s, 'open time':s]",
+    "Schema": "*[Latitude:n, Longitude:n, Name:s, color:s, icon:s, 'open time':s]",
+    "Token": "dummyToken",
+    "Type": "StaticDataSourceInfo"
+  }
+]

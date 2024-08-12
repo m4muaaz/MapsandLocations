@@ -1,0 +1,20 @@
+Main As screen:
+    Fill: =RGBA(136, 160, 209, 1)
+
+    Label1 As label:
+        Font: =Font.'Dancing Script'
+        Height: =356
+        Size: =113
+        Text: ="Map and Locations"
+        Width: =1078
+        X: =168
+        Y: =66
+        ZIndex: =1
+
+    Button2 As button:
+        OnSelect: =Navigate(Screen1,ScreenTransition.UnCover)
+        Text: ="Open Map"
+        X: =607
+        Y: =422
+        ZIndex: =2
+
